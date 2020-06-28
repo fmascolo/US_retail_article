@@ -5,11 +5,8 @@ This project has the objective to investigate and find out insights based at US 
 
 1. What segment is more interesting to entry as an investor?
 2. How the costs and expenses impact the segments?
-
 3. Which one has more money spending with inventories?
-
 4. How the inventory impacts the business margin?
-
 5. Predict sales for the next year (2015).
 
 ## Data Source
